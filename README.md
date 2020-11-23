@@ -22,6 +22,7 @@ Repository for building [Docker](https://www.docker.com/) container of [Apache S
 ## Superset components stack
 - Enhanced/Modified version of the docker container of [apache-superset](https://github.com/apache/incubator-superset/tree/master/contrib/docker).
 - Superset version: Notation for representing version `X.YY.ZZzzz` which means either 
+    * 0.37.0
     * 0.36.0
     * 0.35.0, 0.35.1
     * 0.34.0, 0.34.0rc1  
