@@ -4,7 +4,7 @@
 # BUILD: docker build --rm -t docker-apache-superset:0.28.1 -f docker-files/DockerFile .
 # Modified/revamped version of the https://github.com/apache/incubator-superset/blob/master/contrib/docker/Dockerfile
 
-FROM python:3.6
+FROM python:3.12.0rc2
 MAINTAINER Abhishek Sharma <abhioncbr@yahoo.com>
 
 # Build argument[version of apache-superset to be build: pass value while building image]
